@@ -2,7 +2,7 @@
 
 ## 基于TKinter和PAGE的小程序
 
-此项目展示了一个使用TKinter和PAGE开发的小程序，可供参考和学习。
+此项目展示了一个使用[TKinter](https://docs.python.org/3/library/tkinter.html)和[PAGE](https://github.com/KongNan/PAGE)开发的小程序，可供参考和学习。
 ### 文件说明：
 
 - **README.md**: 项目的说明文件。
